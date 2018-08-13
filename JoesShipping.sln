@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoesShipping", "JoesShipping\JoesShipping.csproj", "{EDA6F2CF-30C3-40EA-B51A-AB826245847B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoesSphippingTestProject", "JoesSphippingTestProject\JoesSphippingTestProject.csproj", "{02F6283C-01DB-4DD2-9B2A-FFF0D352AC9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDA6F2CF-30C3-40EA-B51A-AB826245847B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDA6F2CF-30C3-40EA-B51A-AB826245847B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDA6F2CF-30C3-40EA-B51A-AB826245847B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDA6F2CF-30C3-40EA-B51A-AB826245847B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02F6283C-01DB-4DD2-9B2A-FFF0D352AC9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F6283C-01DB-4DD2-9B2A-FFF0D352AC9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F6283C-01DB-4DD2-9B2A-FFF0D352AC9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F6283C-01DB-4DD2-9B2A-FFF0D352AC9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {494C0940-EF40-4E7E-9D39-BF63553C98C3}
+	EndGlobalSection
+EndGlobal
